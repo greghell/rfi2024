@@ -142,9 +142,11 @@ td.sponsor img{width: 100%}
 }
 
 .crop {
- height: 300px;
- width: 400px;
- overflow: hidden;
+ display: block;
+ height: 200px;
+ width: auto;
+ margin-left: auto;
+ margin-right: auto;
 }
 
 footer{font-size:0.875em; margin-top:12em; text-align:center;}
